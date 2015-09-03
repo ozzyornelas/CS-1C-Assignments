@@ -1,0 +1,22 @@
+***************************************************************************
+*  PROGRAMMED BY :  The Oz
+*  CLASS         :  CS1B
+*  SECTION       :  TTh: 8:00a - 11:50a
+*  Assignment#5  :  Searching Linked List
+***************************************************************************
+
+Search by rating for 8 Found:
+MOVIE #  TITLE                                           YEAR RATING  GENRE             ALT GENRE         LEAD ACTOR                      SUPPORTING ACTOR
+------- ------------------------------------------------ ---- ------ ----------------- ----------------- ------------------------------- ------------------- 
+   1     Cinderella Man                2005                8Biography          Drama      Russell Crowe                       Renee Zellweger
+   2     Good Night, Good Luck         2005                8Biography          Drama   David Strathairn                        George Clooney
+   3     Invictus                      2009                8Biography          Drama     Morgan Freeman                            Matt Damon
+   4     Pirates of the Caribbean 1: The Curse of the ...2003                8Action             Action        Johnny Depp                         Orlando Bloom
+   5     Pursuit of Happyness          2008                8Biography          Drama         Will Smith                           Jaden Smith
+   6     Secondhand Lions              2003                8Comedy             Comedy   Haley Joel Osmet                         Robert Duvall
+   7     Shackelton                    2002                8Biography          Drama    Kenneth Branagh                           John Grillo
+   8     Yankee Doodle Dandee          1942                8Musical            Biography       James Cagney                           Joan Leslie
+Search by year for 2004 Found:
+MOVIE #  TITLE                                           YEAR RATING  GENRE             ALT GENRE         LEAD ACTOR                      SUPPORTING ACTOR
+------- ------------------------------------------------ ---- ------ ----------------- ----------------- ------------------------------- ------------------- 
+   1     Five People You Meet in Heaven, The2004                7Drama              Drama         Jon Voight                         Ellen Burstyn

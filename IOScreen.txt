@@ -1,0 +1,21 @@
+***************************************************************************
+*  PROGRAMMED BY :  The Oz
+*  CLASS         :  CS1B
+*  SECTION       :  TTh: 8:00a - 11:50a
+*  Assignment#5  :  Searching Linked List
+***************************************************************************
+
+Enter the input file name (inFile.txt): inFile.txt
+
+Enter the output file name (oFile.txt): oFile.txt
+
+1 - Output Entire List                
+2 - Title Search                      
+3 - Genre Search                      
+4 - Actor Search                      
+5 - Year Search                       
+6 - Rating Search                     
+0 - EXIT                              
+
+What menu option do you want to do? 1
+What menu option do you want to do? 0

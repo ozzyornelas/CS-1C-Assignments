@@ -1,0 +1,34 @@
+***************************************************************************
+*  PROGRAMMED BY :  The Oz
+*  CLASS         :  CS1B
+*  SECTION       :  TTh: 8:00a - 11:50a
+*  Assignment#5  :  Searching Linked List
+***************************************************************************
+
+***************************************************************************
+Title: Antwone Fisher
+---------------------------------------------------------------------------
+Year: 2002         Rating: 7
+---------------------------------------------------------------------------
+Leading Actor:     Denzel Washington        Genre 1: Biography
+Supporting Actor:  Derek Luke               Genre 2: Drama
+---------------------------------------------------------------------------
+Plot: 
+Antwone Fisher, a young navy man, is forced to see a psychiatrist after a 
+violent outburst against a fellow crewman. During the course of treatment 
+a painful past is revealed and a new hope begins.
+***************************************************************************
+
+
+***************************************************************************
+Title: Bagger Vance, The Legend of
+---------------------------------------------------------------------------
+Year: 2000         Rating: 6
+---------------------------------------------------------------------------
+Leading Actor:     Will Smith               Genre 1: Drama
+Supporting Actor:  Matt Damon               Genre 2: Drama
+---------------------------------------------------------------------------
+Plot: 
+A down-and-out golfer attempts to recover his game and his life with help 
+from a mystical caddy
+***************************************************************************

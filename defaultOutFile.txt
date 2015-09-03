@@ -1,0 +1,30 @@
+***************************************************************************
+*  PROGRAMMED BY :  The Oz
+*  CLASS         :  CS1B
+*  SECTION       :  TTh: 8:00a - 11:50a
+*  Assignment#5  :  Searching Linked List
+***************************************************************************
+
+List of all the movies: 
+MOVIE #  TITLE                                           YEAR RATING  GENRE             ALT GENRE         LEAD ACTOR                      SUPPORTING ACTOR
+------- ------------------------------------------------ ---- ------ ----------------- ----------------- ------------------------------- ------------------- 
+   1     Antwone Fisher                2002                7Biography          Drama  Denzel Washington                            Derek Luke
+   2     Bagger Vance, The Legend of   2000                6Drama              Drama         Will Smith                            Matt Damon
+   3     Cinderella Man                2005                8Biography          Drama      Russell Crowe                       Renee Zellweger
+   4     Five People You Meet in Heaven, The2004                7Drama              Drama         Jon Voight                         Ellen Burstyn
+   5     Good Night, Good Luck         2005                8Biography          Drama   David Strathairn                        George Clooney
+   6     Invictus                      2009                8Biography          Drama     Morgan Freeman                            Matt Damon
+   7     Miss Petigrew Lives for a Day 2008                7Comedy             Romance   Frances McDomand                             Amy Adams
+   8     Pay it Forward                2000                7Drama              Romance       Kevin Spacey                            Helen Hunt
+   9     Pianist, The                  2003                9Biography          Drama       Adrien Brody                     Thomas Kreschmann
+  10     Pirates of the Caribbean 1: The Curse of the ...2003                8Action             Action        Johnny Depp                         Orlando Bloom
+  11     Pursuit of Happyness          2008                8Biography          Drama         Will Smith                           Jaden Smith
+  12     Rent                          2005                7Musical            Drama       Anthony Rapp                           Adam Pascal
+  13     Secondhand Lions              2003                8Comedy             Comedy   Haley Joel Osmet                         Robert Duvall
+  14     Shackelton                    2002                8Biography          Drama    Kenneth Branagh                           John Grillo
+  15     Shawshank Redemption, The     1994                9Drama              Crime        Tim Robbins                        Morgan Freeman
+  16     Thelma and Louise             1991                7Action             Action     Susan Sarandon                           Geena Davis
+  17     Unfinished Life, An           2005                7Drama              Drama     Robert Redford                        Jennifer Lopez
+  18     Whip It                       2009                7Drama              Sport         Ellen Page                     Marcia Gay Harden
+  19     X-Men                         2000                7Action             Action       Hugh Jackman                       Patrick Stewart
+  20     Yankee Doodle Dandee          1942                8Musical            Biography       James Cagney                           Joan Leslie
